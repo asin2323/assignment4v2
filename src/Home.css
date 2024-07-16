@@ -1,0 +1,15 @@
+.home {
+    padding: 2rem;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: #f4f4f4;
+    color: #333;
+  }
+  
+  .home h1 {
+    color: #333;
+  }
+  
+  .home p {
+    margin-bottom: 1rem;
+  }
+  
